@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 
+Hi! <br/> 
 My name is Bibi Bakmann and I am from Denmark. 
 <br/> Right now I work at Eurowind Energy in Hobro as Data Technician Apprentice :)
 
