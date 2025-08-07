@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi! 
-My name is Bibi Bakmann and I am from Denmark. Right now I work at Eurowind Energy in Hobro as Data Technician Apprentice :)
+My name is Bibi Bakmann and I am from Denmark. 
+<br/> Right now I work at Eurowind Energy in Hobro as Data Technician Apprentice :)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bibi.bakmann/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bibi-bakmann-210ba224a/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/bibibakmann) 
